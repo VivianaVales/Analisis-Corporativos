@@ -1,4 +1,18 @@
-# Introduction to GitHub
+# # Contexto del Negocio
+
+Finora, Inc., una startup colombiana SaaS en pleno crecimiento que ha desarrollado una plataforma de gestión financiera y operativa para pequeñas 
+y medianas empresas (PyMEs). Su modelo de negocio está basado en suscripción, con planes que varían dinámicamente según el número de movimientos 
+registrados en la plataforma por cada usuario.
+En los últimos trimestres, el equipo ejecutivo ha detectado variaciones en el comportamiento de ingresos, retención y adquisición de clientes. 
+A medida que el negocio escala, se requieren análisis profundos que permitanentender qué está impulsando (o frenando) nuestro crecimiento, 
+cómo mejorar la eficiencia de adquisición y qué segmentos de clientes generan mayor valor a largo plazo.
+
+Por esto, se requiere analizar nuestros datos de facturación y gasto en adquisición para diagnosticar la salud del negocio.
+
+
+![](https://app.powerbi.com/view?r=eyJrIjoiNTIyZGEzNTItZmY0OC00MzljLWE5OGMtNGIyNjJkMTQzNjBkIiwidCI6ImQ5NTYwYjMzLWNlYjItNGE0My1iZTM4LTQzMjU4ZTE0MGQzMiJ9)
+
+
 
 <!-- ![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/1-create-a-branch.yml/badge.svg)
