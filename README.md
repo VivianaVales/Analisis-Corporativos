@@ -10,17 +10,10 @@ cómo mejorar la eficiencia de adquisición y qué segmentos de clientes generan
 Por esto, se requiere analizar nuestros datos de facturación y gasto en adquisición para diagnosticar la salud del negocio.
 
 
-![](https://app.powerbi.com/view?r=eyJrIjoiNTIyZGEzNTItZmY0OC00MzljLWE5OGMtNGIyNjJkMTQzNjBkIiwidCI6ImQ5NTYwYjMzLWNlYjItNGE0My1iZTM4LTQzMjU4ZTE0MGQzMiJ9)
+   <a id="Tablero de Control - Dx Salud del Negocio">
+      <img src="[https://img.shields.io/badge/📠_Copy_Exercise-AAA](https://app.powerbi.com/view?r=eyJrIjoiNTIyZGEzNTItZmY0OC00MzljLWE5OGMtNGIyNjJkMTQzNjBkIiwidCI6ImQ5NTYwYjMzLWNlYjItNGE0My1iZTM4LTQzMjU4ZTE0MGQzMiJ9)" height="25pt"/>
+   </a>
 
-
-
-<!-- ![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/0-start-exercise.yml/badge.svg) -->
-![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/1-create-a-branch.yml/badge.svg)
-![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/2-commit-a-file.yml/badge.svg)
-![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/3-open-a-pull-request.yml/badge.svg)
-![](https://github.com/VivianaVales/MyPortfolio/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
-
-_Get started using GitHub in less than an hour._
 
 ## Welcome
 
@@ -43,9 +36,6 @@ In this exercise, you will:
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
-   <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
-   </a>
 
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
