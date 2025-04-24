@@ -1,3 +1,5 @@
+** Tenga en cuenta que los nombres y algunas cifras relevantes han sido ajustadas por efectos de confidencialidad
+
 ## Contexto del Negocio
 
 Finora, Inc., una startup colombiana SaaS en pleno crecimiento que ha desarrollado una plataforma de gestión financiera y operativa para pequeñas 
